@@ -1,6 +1,7 @@
 # Growth+
 
 ## About Growth +
+
 Growth+ is a mobile application designed to target numeracy, 
 the ability to understand and work with numbers, in francophone Africa. 
 This project has been developed as a response to the lack of educational resources related to basic math skills. 
