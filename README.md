@@ -1,6 +1,7 @@
 # Growth+
 
 ## About Growth +
+
 Millions of children across Africa struggle with basic math. 
 Yet they have increasing access to smartphones at home. 
 Our vision is to tackle this need through a mobile application that empowers parents to provide their children with fundamental math skills. 
